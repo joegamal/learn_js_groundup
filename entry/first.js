@@ -10,12 +10,14 @@
  * data types in javaScript
  * 
  * number
+ * bigint
+ * symbol
  * boolean
  * string
  * undefined
  * object
  * null
- * 
+ * NAN
  */
 
 var num = 5;
@@ -35,6 +37,8 @@ console.log(typeof name) //this is undefined
 console.log(typeof sec_name) // this is undefined also
 console.log(typeof kol) // this is typeof object
 console.log(typeof secName) //this is string 
+
+
 
 
 
