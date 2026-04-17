@@ -20,3 +20,8 @@ class Employee extends Person{
 let employee = new Employee(60, "pop", "dev")
 
 console.log(employee.name)
+
+console.log(person instanceof Person)       //true
+console.log(person instanceof Employee)     //false
+console.log(employee instanceof Person)     //true
+console.log(employee instanceof Employee)   //true
