@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "first.d.ts",
+  "sourceRoot": "",
+  "sources": [
+    "first.ts"
+  ],
+  "names": [],
+  "mappings": ""
+}
